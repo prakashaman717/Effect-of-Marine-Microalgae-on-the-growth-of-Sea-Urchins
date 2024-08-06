@@ -22,7 +22,6 @@ Fig. P.Lividus in bentheic ocean
 **(c)** Insert photos with captions  
 For example:   
    
-![colonie_figure_sesesame.png](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/colonie_figure_sesesame.png) 
 
 Figure 1: Colonie of *Pocillopora spp.* in the lagoon of Mo'orea at different flow regime.  
 
