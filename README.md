@@ -18,26 +18,18 @@ Fig. Life Cycle of Sea Urchins
 During the life cycle the sea urchins requires the food like the other biological living organisms. My experiment is ellucidate the effects on the growth depending on their feed.So, I have selected two different kinds of mircoalage which were fed to the larval culture of sea urchins and their growth were documented.The prominent parameters which will be focused as the the basis of growth among them are :- 
 (i) Rod Length
 (ii) Body Length
-(iii) Different Stages 
+(iii) Different Stages of development
 
-**(d)** The experiment schedules and their outcome till now :-     
-   
+**Updates**
 
-| Date | Embryo Conc. | Food Conc |Survival Days |
-|------|------|-------------|-------------|-----------|-----|
-|      |      |             |             |           |     |
-|      |      |             |             |           |     |
-|      |      |             |             |           |     |
-|      |      |             |             |           |     |
-|
-|
-|
-|      |      |             |             |           |     |
+Till now, I have successfully grown the cultures till the 14 days but after that they died unexpectedly. Some of the selected pictures are here below :- 
 
+![Sea Urchins Grown Ones](https://github.com/prakashaman717/Effect-of-Marine-Microalgae-on-the-growth-of-Sea-Urchins/blob/main/Images/Sea%20Urchins%20Grown%20Ones.jpg)
 
+Fig. The 12 days grown sea urchins fed with Dunaelilla microalages. The growing of the forearms indicate the growth of rods as compared with the control one. Controls were died till           this terms.
 
-  
+![Sea Urchins Grown 2](https://github.com/prakashaman717/Effect-of-Marine-Microalgae-on-the-growth-of-Sea-Urchins/blob/main/Images/Sea%20Urchins%20Grown%202.png)
 
+Fig. Early development in the sea urchins larvae.
 
-
-
+For futher informations you are Welcomed in my defined repositories.See you there !
