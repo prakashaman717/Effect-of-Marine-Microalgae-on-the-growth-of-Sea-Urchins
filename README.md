@@ -13,6 +13,8 @@ The life cycle of sea urchins is compraised of two parts :- Planktonic Larval Ph
 
 ![Sea Urchins Life Cycle 2](https://github.com/prakashaman717/Effect-of-Marine-Microalgae-on-the-growth-of-Sea-Urchins/blob/main/Images/Sea%20Urchins%20Life%20Cycle%202.jpeg)
 
+Fig. Life Cycle of Sea Urchins
+
 During the life cycle the sea urchins requires the food like the other biological living organisms. My experiment is ellucidate the effects on the growth depending on their feed.So, I have selected two different kinds of mircoalage which were fed to the larval culture of sea urchins and their growth were documented.The prominent parameters which will be focused as the the basis of growth among them are :- 
 (i) Rod Length
 (ii) Body Length
