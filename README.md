@@ -8,8 +8,9 @@
 
 Fig. P.Lividus in bentheic ocean
 
-
-
+The life cycle of sea urchins is compraised of two parts :- Planktonic Larval Phase and Adult benthic phase.
+![Sea Urchins Life Cycle](https://github.com/prakashaman717/Effect-of-Marine-Microalgae-on-the-growth-of-Sea-Urchins/blob/main/Images/Sea%20Urchins%20Life%20Cycle.jpeg
+![Sea Urchins Life Cycle 2](https://github.com/prakashaman717/Effect-of-Marine-Microalgae-on-the-growth-of-Sea-Urchins/blob/main/Images/Sea%20Urchins%20Life%20Cycle%202.jpeg)
 The experiment has just been started and I have got the following outcomes :-   
 
 **(d)** The experiment schedules and their outcome till now :-     
