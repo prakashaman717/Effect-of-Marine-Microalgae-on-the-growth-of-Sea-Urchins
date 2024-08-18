@@ -32,6 +32,12 @@ Fig. The 12 days grown sea urchins fed with Dunaelilla microalages. The growing 
 
 ![Sea Urchins Grown 2](https://github.com/prakashaman717/Effect-of-Marine-Microalgae-on-the-growth-of-Sea-Urchins/blob/main/Images/Sea%20Urchins%20Grown%202.png)
 
+
+
 Fig. Early development in the sea urchins larvae.
 
 For futher informations you are Welcomed in my defined repositories.See you there !
+
+**Long Term Goals**
+The long term goal of this project it to set up the breeding protocol of the sea urchins. As mentioned they are the excellent model system to study and can be a supplier to the many labs. Setting up of this protocol will led to development and in vitro breeding of various other species of se urchins which can be used for various associated studies. 
+
