@@ -12,7 +12,7 @@
    5. Leave the parameter as defacult. It depends on your job.
    6. Hit the submit and wait for the results. Wait for the complete process and don't click anything.
    7. Result page will appear as below :-
-      [JObs](https://github.com/prakashaman717/Effect-of-Marine-Microalgae-on-the-growth-of-Sea-Urchins/blob/main/Images/JObs.png)
+      ![JObs](https://github.com/prakashaman717/Effect-of-Marine-Microalgae-on-the-growth-of-Sea-Urchins/blob/main/Images/JObs.png)
 
   8. Select the option of Visualize networks and a list will be opened and the select the desired molecule which will be considered for the further analysis.  
   
