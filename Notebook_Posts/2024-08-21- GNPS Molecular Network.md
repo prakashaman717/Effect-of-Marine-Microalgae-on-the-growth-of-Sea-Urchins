@@ -2,11 +2,17 @@
 
 Here, I used [GNPS](https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp) to create a network of molecules. I focused on a type of N-Formylcytisine Collisio biocompounds and examined the network of molecules that are close to it in terms of the similarity of their MS/MS spectra.
 
+In the following picture we have focused on 268 and 249 numbered molecules.
 
+![GNPS Molecules](https://github.com/prakashaman717/Effect-of-Marine-Microalgae-on-the-growth-of-Sea-Urchins/blob/main/Images/GNPS%20MOLECULES.png)
 
 As you can see, there is a close molecule that is unidentified and has a molecular weight difference of 27.989.
 
-Below are the profiles of the two molecules, with the unidentified molecule shown at the bottom.
+Below are the profiles of the two molecules(268 & 249) ,with the unidentified molecule down.
+
+![Already Unknown](https://github.com/prakashaman717/Effect-of-Marine-Microalgae-on-the-growth-of-Sea-Urchins/blob/main/Images/Already%20Unknown.png)
+
+![Enquiry One](https://github.com/prakashaman717/Effect-of-Marine-Microalgae-on-the-growth-of-Sea-Urchins/blob/main/Images/Enquiry%20One.png)
 
 
 
