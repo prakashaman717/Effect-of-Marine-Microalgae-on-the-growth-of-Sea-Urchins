@@ -36,7 +36,7 @@ Fig. The 12 days grown sea urchins fed with Dunaelilla microalages. The growing 
 
 Fig. Early development in the sea urchins larvae.
 
-For futher informations you are Welcomed in my defined repositories.See you there !
+For futher informations you are Welcome in my defined repositories.See you there !
 
 **Long Term Goals**
 
